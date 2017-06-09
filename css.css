@@ -1,0 +1,43 @@
+#main{
+	background-image: url(./images/background.jpg);
+	background-repeat:no-repeat;
+	height:690;
+	width:1222;
+	padding-left:190;
+}
+#top1{
+	width:980;
+}
+nav{
+    background-image:url(./images/menubg.jpg);
+    font-family:serif;
+    background-repeat: repeat;
+    font-size: larger;
+    height:30;
+}
+nav a{
+	color: white;
+    padding-left: 90;
+    padding-right: 70;
+    margin-top: 50;
+	font-size:bold;
+}
+#a1{
+    padding-top:50;
+}
+#a1,#a2{
+    color:white;
+    padding-left:150;
+}
+#top-main{
+	background-image:url(./images/Capture.png);
+	background-repeat: no-repeat;
+	height:230;
+	margin-top:15;
+}
+#text1{
+	padding-left: 60;
+    padding-right: 50;
+    font-family: Lucida Sans Unicode;
+    
+}
